@@ -11,4 +11,6 @@
 ![PostgresSQL](https://img.shields.io/badge/-PostgreSQL-080808?style=for-the-badge&logo=PostgreSQL)
 
 
-Folow Me
+### Folow Me
+[![Instagram](https://img.shields.io/badge/-Instagram-080808?style=for-the-badge&logo=Instagram)](https://www.instagram.com/mahmud.s___)
+[![Telegram](https://img.shields.io/badge/-Telegram-080808?style=for-the-badge&logo=Telegram)](https://t.me/mahmud_s)
