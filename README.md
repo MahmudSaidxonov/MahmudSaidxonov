@@ -16,5 +16,5 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-080808?style=for-the-badge&logo=Telegram)](https://t.me/mahmud_s)
 
 ### Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MahmudSaidxonov&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmudSaidxonov&layout=compact&theme=tokyonight)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MahmudSaidxonov&show_icons=true&theme=tokyonight)](https://github.com/MahmudSaidxonov/github-readme-stats#gh-tokyonight-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmudSaidxonov&layout=compact&theme=tokyonight)](https://github.com/MahmudSaidxonov/github-readme-stats#gh-tokyonight-mode-only)
