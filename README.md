@@ -1,6 +1,6 @@
 ![Header](https://github.com/MahmudSaidxonov/MahmudSaidxonov/blob/main/assets/Screenshot%20from%202023-01-05%2011-08-18.png)
 
-## I'm currently learning Java
+## I'm currently learning Java 
 
 ### Language and Tools
 ![Java](https://img.shields.io/badge/-Java-080808?style=for-the-badge&logo=Java)
