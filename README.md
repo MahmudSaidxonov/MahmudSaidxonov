@@ -7,10 +7,11 @@
 ![Spring](https://img.shields.io/badge/-Spring-080808?style=for-the-badge&logo=Spring)
 ![C](https://img.shields.io/badge/-C-080808?style=for-the-badge&logo=C)
 ![Python](https://img.shields.io/badge/-Python-080808?style=for-the-badge&logo=Python)
-![HTML](https://img.shields.io/badge/-HTML-080808?style=for-the-badge&logo=HTML5)
 ![MySQL](https://img.shields.io/badge/-MySQL-080808?style=for-the-badge&logo=MySQL)
 ![PostgresSQL](https://img.shields.io/badge/-PostgreSQL-080808?style=for-the-badge&logo=PostgreSQL)
+![Redis](https://img.shields.io/badge/-Redis-080808?style=for-the-badge&logo=Redis)
 ![Linux](https://img.shields.io/badge/-Linux-080808?style=for-the-badge&logo=Linux)
+![HTML](https://img.shields.io/badge/-HTML-080808?style=for-the-badge&logo=HTML5)
 
 
 ### You can contact me:
