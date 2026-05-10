@@ -11,11 +11,9 @@
 ![PostgresSQL](https://img.shields.io/badge/-PostgreSQL-080808?style=for-the-badge&logo=PostgreSQL)
 ![Redis](https://img.shields.io/badge/-Redis-080808?style=for-the-badge&logo=Redis)
 ![Linux](https://img.shields.io/badge/-Linux-080808?style=for-the-badge&logo=Linux)
-![HTML](https://img.shields.io/badge/-HTML-080808?style=for-the-badge&logo=HTML5)
 
 
 ### You can contact me:
-[![Instagram](https://img.shields.io/badge/-Instagram-080808?style=for-the-badge&logo=Instagram)](https://www.instagram.com/mahmud.s___)
 [![Telegram](https://img.shields.io/badge/-Telegram-080808?style=for-the-badge&logo=Telegram)](https://t.me/mahmud_s)
 
 ### Stats
